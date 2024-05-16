@@ -1,0 +1,74 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Chillo97.github.io/ManifestStore/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Historische Glasdiapositive, ehemals für Kunst- und Kostümgeschichte in den Studiengängen der HTW Berlin genutzt.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "HTW Berlin, FB 5 (Gestaltung und Kultur)",
+  "sequences" : [ {
+    "@id" : "http://36919cc4-671d-4807-baa8-3dd30f5f6fb4",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://755e32ab-cda2-4b2b-acf2-205bf02569cc",
+      "@type" : "sc:Canvas",
+      "label" : "01.073 M",
+      "height" : 1076,
+      "width" : 1231,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b115abe6-5c5e-4376-afd1-e8e6a5ef7a7c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/01.073 M.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/01.073 M.jpg",
+            "profile" : "level2"
+          },
+          "height" : 1076,
+          "width" : 1231
+        },
+        "on" : "http://755e32ab-cda2-4b2b-acf2-205bf02569cc"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Nummer",
+        "value" : "01.073"
+      }, {
+        "label" : "Titel",
+        "value" : "\"S.G. Chevalier (Gavarni) Pariser Mode (1834)\""
+      }, {
+        "label" : "Repository",
+        "value" : "HTW Berlin, FB 5 (Gestaltung und Kultur)"
+      }, {
+        "label" : "Beschreibung",
+        "value" : "Dr. Franz Stoedtner, Institut für Wissenschaftliche Projektions-Photographie (Berlin)"
+      }, {
+        "label" : "actorInRole",
+        "value" : "Institut für Wissenschaftliche Projektions-Photographie (Berlin) Dr. Franz Stoedtner"
+      }, {
+        "label" : "Transkription",
+        "value" : "\"MuK\""
+      }, {
+        "label" : "Notizwert",
+        "value" : "rechts unten auf Etikett"
+      }, {
+        "label" : "Kreditlinie",
+        "value" : "Rights Reserved – Free Access"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
