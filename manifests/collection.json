@@ -1,0 +1,13 @@
+{
+  "id" : "https://Chillo97.github.io/ManifestStore/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Chillo97/ManifestStore project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Chillo97.github.io/ManifestStore/manifests/manifest.json",
+    "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive"
+  } ]
+}
