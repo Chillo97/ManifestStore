@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Chillo97.github.io/ManifestStore/manifests/manifest.json",
     "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Chillo97.github.io/ManifestStore/manifests/manifesttest.json",
+    "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive"
   } ]
 }
