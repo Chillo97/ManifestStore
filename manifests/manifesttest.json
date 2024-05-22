@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Chillo97.github.io/ManifestStore/manifests/manifesttest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Historische Glasdiapositive, ehemals für Kunst- und Kostümgeschichte in den Studiengängen der HTW Berlin genutzt.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "HTW Berlin, FB 5 (Gestaltung und Kultur)",
+  "sequences" : [ {
+    "@id" : "http://38d95422-312b-4320-bb3b-7565e53333cc",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9a48b85c-e597-47fc-8673-94acb1356cf7",
+      "@type" : "sc:Canvas",
+      "label" : "01.073 M",
+      "height" : 1076,
+      "width" : 1231,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3f5539a8-0e82-4ed0-a10e-f10803b3afad",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/01.073 M.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/01.073 M.jpg",
+            "profile" : "level2"
+          },
+          "height" : 1076,
+          "width" : 1231
+        },
+        "on" : "http://9a48b85c-e597-47fc-8673-94acb1356cf7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a367f2a1-00b7-45cd-a3ec-ec1acdae95ff",
+      "@type" : "sc:Canvas",
+      "label" : "01.075 M",
+      "height" : 1076,
+      "width" : 1231,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b9b1588b-4cfd-49e6-a890-beae04b25328",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/01.075 M.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/01.075 M.jpg",
+            "profile" : "level2"
+          },
+          "height" : 1076,
+          "width" : 1231
+        },
+        "on" : "http://a367f2a1-00b7-45cd-a3ec-ec1acdae95ff"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bcc7ea76-86b2-4cdd-9e4d-df4f3ee309ba",
+      "@type" : "sc:Canvas",
+      "label" : "01.076 M",
+      "height" : 1071,
+      "width" : 1220,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5f6837fa-aa28-401a-8762-79e5eb01f5af",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/01.076 M.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/01.076 M.jpg",
+            "profile" : "level2"
+          },
+          "height" : 1071,
+          "width" : 1220
+        },
+        "on" : "http://bcc7ea76-86b2-4cdd-9e4d-df4f3ee309ba"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://65ea5e60-9cbd-48c0-932f-de2b051f801f",
+      "@type" : "sc:Canvas",
+      "label" : "01.077 M",
+      "height" : 1071,
+      "width" : 1220,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9818cbe9-2d93-424c-b650-d6449618fc70",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/01.077 M.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/01.077 M.jpg",
+            "profile" : "level2"
+          },
+          "height" : 1071,
+          "width" : 1220
+        },
+        "on" : "http://65ea5e60-9cbd-48c0-932f-de2b051f801f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://da3a4230-8f65-4ff8-8478-e70b1011ae61",
+      "@type" : "sc:Canvas",
+      "label" : "01.078 M",
+      "height" : 1071,
+      "width" : 1220,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d0fbe94e-1d70-42ec-87b9-ad0dd87ccdd1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/01.078 M.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/01.078 M.jpg",
+            "profile" : "level2"
+          },
+          "height" : 1071,
+          "width" : 1220
+        },
+        "on" : "http://da3a4230-8f65-4ff8-8478-e70b1011ae61"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
