@@ -29,7 +29,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://localhost:8182/iiif/3/01.073 M.jpg/full/full/0/default.jpg",
+          "@id" : "http://localhost:8182/iiif/2/01.073 M.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -55,7 +55,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://localhost:8182/iiif/3/01.075 M.jpg/full/full/0/default.jpg",
+          "@id" : "http://localhost:8182/iiif/2/01.075 M.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -81,7 +81,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://localhost:8182/iiif/3/01.076 M.jpg/full/full/0/default.jpg",
+          "@id" : "http://localhost:8182/iiif/2/01.076 M.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -107,7 +107,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://localhost:8182/iiif/3/01.077 M.jpg/full/full/0/default.jpg",
+          "@id" : "http://localhost:8182/iiif/2/01.077 M.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -133,7 +133,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://localhost:8182/iiif/3/01.078 M.jpg/full/full/0/default.jpg",
+          "@id" : "http://localhost:8182/iiif/2/01.078 M.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
