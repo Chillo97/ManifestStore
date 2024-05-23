@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Chillo97.github.io/ManifestStore/manifests/manifest_part1.json",
     "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive - Teil 1"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Chillo97.github.io/ManifestStore/manifests/aktualisiertes_manifest.json",
+    "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive - Teil 2"
   } ]
 }
