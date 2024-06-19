@@ -2,71 +2,48 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Chillo97.github.io/ManifestStore/manifests/test.json",
   "@type" : "sc:Manifest",
-  "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive - Achille",
+  "label" : "[Click to edit label]",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "Historische Glasdiapositive, ehemals für Kunst- und Kostümgeschichte in den Studiengängen der HTW Berlin genutzt. Teil eines größeren Bestands von ca. 1000 Diapositiven, u.a. von der Firma Dr. Franz Stoedtner bezogen. Digitalisiert und erhalten im Rahmen eines Projekts von 01.10.2007 bis 31.03.2013.",
+    "@value" : "[Click to edit description]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "HTW Berlin, FB 5 (Gestaltung und Kultur)",
+  "attribution" : "[Click to edit attribution]",
   "sequences" : [ {
-    "@id" : "http://d6d5a34b-4251-4d3c-bea8-e4d945c15486-part2",
+    "@id" : "http://e5b75bc7-49be-448a-9845-d1ffa3cca465",
     "@type" : "sc:Sequence",
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
     } ],
     "canvases" : [ {
-      "@id" : "http://f49bf127-07ee-41ea-b902-2c6e98febcd8",
+      "@id" : "http://167b75c9-e86f-40c3-ac75-9278b264741a",
       "@type" : "sc:Canvas",
-      "label" : "04.007 M",
-      "height" : 2472,
-      "width" : 2112,
+      "label" : "test",
+      "height" : 1076,
+      "width" : 1231,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://13cbc7b7-893c-40f4-9acf-54254d87badd",
+        "@id" : "http://faf0e7d5-0d78-4fcf-b4b2-8eff32826d6d",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://ae45-134-101-4-57.ngrok-free.app/iiif/2/04.007%20M.jpg/full/full/0/default.jpg",
+          "@id" : "http://localhost:8182/iiif/3/01.073 M.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "https://ae45-134-101-4-57.ngrok-free.app/iiif/3/04.007%20M.jpg",
+            "@id" : "http://localhost:8182/iiif/3/01.073 M.jpg",
             "profile" : "level2"
           },
-          "height" : 2472,
-          "width" : 2112
+          "height" : 1076,
+          "width" : 1231
         },
-        "on" : "http://f49bf127-07ee-41ea-b902-2c6e98febcd8"
-      } ]
-    }, {
-      "@id" : "http://72e34272-917e-402d-a759-2163c8a1b065",
-      "@type" : "sc:Canvas",
-      "label" : "04.008 M",
-      "height" : 2472,
-      "width" : 2112,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://28dea292-0f3b-47a3-9f64-171f2a6852e6",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://ae45-134-101-4-57.ngrok-free.app/iiif/2/04.008%20M.jpg/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "https://ae45-134-101-4-57.ngrok-free.app/iiif/3/04.008%20M.jpg",
-            "profile" : "level2"
-          },
-          "height" : 2472,
-          "width" : 2112
-        },
-        "on" : "http://72e34272-917e-402d-a759-2163c8a1b065"
-      } ]
+        "on" : "http://167b75c9-e86f-40c3-ac75-9278b264741a"
+      } ],
+      "related" : ""
     } ]
-  } ]
+  } ],
+  "structures" : [ ]
 }
