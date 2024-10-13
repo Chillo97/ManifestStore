@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Chillo97.github.io/ManifestStore/annotations/1651971eb11f52ca08c5e120dcfe8bb0.json" ],
+  "@id" : "https://Chillo97.github.io/ManifestStore/annotations/collection.json",
+  "label" : "All annotations loaded in Chillo97/ManifestStore project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
