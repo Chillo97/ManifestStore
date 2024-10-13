@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Chillo97.github.io/ManifestStore/annotations/1651971eb11f52ca08c5e120dcfe8bb0.json", "https://Chillo97.github.io/ManifestStore/annotations/9b0dc0e5df2e6589c96b49921ea46992.json", "https://Chillo97.github.io/ManifestStore/annotations/00a6a2bdae5a47e3bd556801f2a150cd.json" ],
+  "otherContent" : [ "https://Chillo97.github.io/ManifestStore/annotations/1651971eb11f52ca08c5e120dcfe8bb0.json", "https://Chillo97.github.io/ManifestStore/annotations/9b0dc0e5df2e6589c96b49921ea46992.json", "https://Chillo97.github.io/ManifestStore/annotations/00a6a2bdae5a47e3bd556801f2a150cd.json", "https://Chillo97.github.io/ManifestStore/annotations/0bd5a5c56ecb3e55f52d954692927887.json" ],
   "@id" : "https://Chillo97.github.io/ManifestStore/annotations/collection.json",
   "label" : "All annotations loaded in Chillo97/ManifestStore project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
