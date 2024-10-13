@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Chillo97.github.io/ManifestStore/manifests/test.json",
     "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive - Achille"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Chillo97.github.io/ManifestStore/manifests/Manifest.json",
+    "label" : "Bestandsbeschreibung und Handhabe: Glasdiapositive"
   } ]
 }
