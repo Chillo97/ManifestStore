@@ -1,0 +1,237 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "1839 mai",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1839 mai</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/148499494",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-09-29T21:49:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1727646568616",
+    "dcterms:modified" : "2024-09-29T21:49:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://800991cb-a722-4058-9a5f-2ba7348cacb1"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1056,260,56,283"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1056.15909,260.02273h28.20455v0h28.20455v141.31818v141.31818h-28.20455h-28.20455v-141.31818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aed9fe48-4e2b-424d-999b-b67cee1d2197\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://108ade3a-5204-44e5-b392-12e0dd126b3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Berlin",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Berlin</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/148499494",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-09-29T21:48:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1727646497210",
+    "dcterms:modified" : "2024-09-29T21:48:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://800991cb-a722-4058-9a5f-2ba7348cacb1"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=121,191,31,107"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M121.18182,191.29545h15.31818v0h15.31818v53.26136v53.26136h-15.31818h-15.31818v-53.26136z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4835cb9d-18a9-4eb4-a412-1e3d86c83d0d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://108ade3a-5204-44e5-b392-12e0dd126b3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dr. FRANZ STOEDTNER",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dr. FRANZ STOEDTNER</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/148499494",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-09-29T21:48:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1727646486763",
+    "dcterms:modified" : "2024-09-29T21:48:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://800991cb-a722-4058-9a5f-2ba7348cacb1"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=71,114,44,633"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M71.06818,113.97727h21.76136v0h21.76136v316.71591v316.71591h-21.76136h-21.76136v-316.71591z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e884d387-2b39-4da3-9786-f7a141e24b0f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://108ade3a-5204-44e5-b392-12e0dd126b3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Wiener Damenmode",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Wiener Damenmode</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/148499494",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-09-29T21:49:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1727646551142",
+    "dcterms:modified" : "2024-09-29T21:49:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://800991cb-a722-4058-9a5f-2ba7348cacb1"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1115,483,49,480"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1114.86364,483.38636h24.625v0h24.625v240.11364v240.11364h-24.625h-24.625v-240.11364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8a43a6ee-3544-4cac-ade1-33846d6a4ad9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://108ade3a-5204-44e5-b392-12e0dd126b3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mode 180",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>mode 180</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/148499494",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-09-29T21:48:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1727646531255",
+    "dcterms:modified" : "2024-09-29T21:48:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://800991cb-a722-4058-9a5f-2ba7348cacb1"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1116,256,58,204"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1116.29545,255.72727h28.92045v0h28.92045v101.94318v101.94318h-28.92045h-28.92045v-101.94318z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2559d27a-2284-492b-a4c4-dbd971020b49\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://108ade3a-5204-44e5-b392-12e0dd126b3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "45864",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>45864</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/148499494",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-09-29T21:48:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1727646519255",
+    "dcterms:modified" : "2024-09-29T21:48:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://800991cb-a722-4058-9a5f-2ba7348cacb1"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1106,80,62,164"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1106.27273,79.61364h31.06818v0h31.06818v81.89773v81.89773h-31.06818h-31.06818v-81.89773z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d7765f75-3eb7-424c-9f27-9e7813c39368\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://108ade3a-5204-44e5-b392-12e0dd126b3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "c 2",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>c 2</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/148499494",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-09-29T21:48:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1727646504691",
+    "dcterms:modified" : "2024-09-29T21:48:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://800991cb-a722-4058-9a5f-2ba7348cacb1"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=120,110,38,74"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M119.75,109.68182h18.89773v0h18.89773v36.79545v36.79545h-18.89773h-18.89773v-36.79545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2d4a773b-e531-48a6-b659-4964f46d32ea\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://108ade3a-5204-44e5-b392-12e0dd126b3b"
+    } ]
+  } ],
+  "@id" : "https://Chillo97.github.io/ManifestStore/annotations/f349a3147dfe33c6ad3bc6e6187b1b53.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
